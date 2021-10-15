@@ -1,9 +1,9 @@
 class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
-<code>I'm an official telecaster bot
+<code>Movies channel @netflix_hindi_hd
 maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive ma official updates.</code>
+<code>join @allbotdeveloper for official updates.</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
